@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://ban-m.github.io"
+base_url = "https://ban-m.github.io/blog"
 compile_sass = true
 highlight_code = true
 title = "Personal blog"
