@@ -11,7 +11,7 @@ generate_rss = true
 ignored_content = ["draft/*"]
 [extra]
 hyde_links = [
-    {url = "/about_me", name = "About"},
-    {url = "/blog", name = "Blog"},
+    {url = "/blog/about_me", name = "About"},
+    {url = "/blog/blog", name = "Blog"},
 ]
 # Put all your custom variables here
