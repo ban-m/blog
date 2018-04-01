@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Personal blog</title>
+        <link>http:&#x2F;&#x2F;127.0.0.1:1111</link>
+        <description>A notes about bioinformatics&#x2F;comp. biology&#x2F;evolution. Comment is my own.</description>
+        <generator>Gutenberg</generator>
+        <language>en</language>
+        <atom:link href="http:&#x2F;&#x2F;127.0.0.1:1111&#x2F;rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+        <item>
+                <title>About</title>
+                <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+                <link>http:&#x2F;&#x2F;127.0.0.1:1111&#x2F;.&#x2F;about_me&#x2F;</link>
+                <guid>http:&#x2F;&#x2F;127.0.0.1:1111&#x2F;.&#x2F;about_me&#x2F;</guid>
+                <description>&lt;h3 id=&quot;about-me&quot;&gt;About me&lt;&#x2F;h3&gt;</description>
+            </item>
+    </channel>
+</rss>

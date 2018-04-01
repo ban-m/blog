@@ -1,0 +1,17 @@
+# The URL the site will be built for
+base_url = "https://ban-m.github.io"
+compile_sass = true
+highlight_code = true
+title = "Personal blog"
+description = "A notes about bioinformatics/comp. biology/evolution. Comment is my own."
+default_language="ja"
+theme = "hyde"
+highlight_theme = "base16-ocean-dark"
+generate_rss = true
+ignored_content = ["draft/*"]
+[extra]
+hyde_links = [
+    {url = "/about_me", name = "About"},
+    {url = "/blog", name = "Blog"},
+]
+# Put all your custom variables here
