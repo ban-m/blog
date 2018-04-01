@@ -17,6 +17,9 @@ template = "page.html"
 
 Bansho Masutani
 
-I'm studying bioinformatics, systems' biology and medical science at the University of Tokyo.
+I'm a Master's studens studying bioinformatics, systems' biology and medical science at the University of Tokyo.
 
 ### Publication
+
+### Talk & Poster
+
