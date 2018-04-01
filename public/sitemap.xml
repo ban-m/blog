@@ -1,17 +1,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-            <loc>http://127.0.0.1:1111/./about_me/</loc>
-            <lastmod>2018-04-01</lastmod>
-        </url>
-    <url>
-            <loc>http://127.0.0.1:1111/blog/</loc>
-        </url>
-    <url>
-            <loc>http://127.0.0.1:1111/about/</loc>
-        </url>
-    <url>
-            <loc>http://127.0.0.1:1111/</loc>
+    
+        <url>
+            <loc>https://ban-m.github.io/./about_me/</loc>
+            
+                <lastmod>2018-04-01</lastmod>
+            
         </url>
     
+    
+        <url>
+            <loc>https://ban-m.github.io/</loc>
+        </url>
+    
+        <url>
+            <loc>https://ban-m.github.io/about/</loc>
+        </url>
+    
+        <url>
+            <loc>https://ban-m.github.io/blog/</loc>
+        </url>
+    
+    
+        <url>
+            <loc>https://ban-m.github.io/categories/</loc>
+        </url>
+    
+    
+        <url>
+            <loc>https://ban-m.github.io/tags/</loc>
+        </url>
+    
+        <url>
+            <loc>https://ban-m.github.io/tags/about/</loc>
+        </url>
     
 </urlset>
