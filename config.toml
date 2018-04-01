@@ -3,7 +3,7 @@ base_url = "https://ban-m.github.io/blog"
 compile_sass = true
 highlight_code = true
 title = "Personal blog"
-description = "A notes about bioinformatics/comp. biology/evolution. Comment is my own."
+description = "A notes about bioinformatics/computational biology/evolution. Comments are my own."
 default_language="ja"
 theme = "hyde"
 highlight_theme = "base16-ocean-dark"
@@ -11,7 +11,7 @@ generate_rss = true
 ignored_content = ["draft/*"]
 [extra]
 hyde_links = [
-    {url = "/blog/about_me", name = "About"},
+    {url = "/blog/about_me", name = "About(C.V.)"},
     {url = "/blog/blog", name = "Blog"},
 ]
 # Put all your custom variables here
