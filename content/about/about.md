@@ -30,13 +30,14 @@ I'm a Master's studens studying bioinformatics, systems' biology and medical sci
 
 ### Skills
 
-Mainly I use (Rust language)[https://www.rust-lang.org] for research and personal use.
+Mainly I use [Rust language](https://www.rust-lang.org) for research and personal use.
 Other languages I can read/write are as follows:
 
 - C/C++
-- Java and some other JVM lang(Clojure,Scala,Processing)
+- Java and some other JVM lang(Clojure, Scala, Processing)
 - R
 - Python
+
 
 I'm currently interestead in javascript family and lisp family, especially, type script and scheme.
 
